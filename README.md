@@ -1,5 +1,8 @@
 # OS_LAB_code
 
+2. Write a program to implement an address book with options given below: a) Create 
+address book. b) View address book. c) Insert a record. d) Delete a record. e) Modify 
+a record. f) Exit 
 3. Implement the C program in which main program accepts the integers to be sorted. 
 Main program uses the FORK system call to create a new process called a child 
 process. Parent process sorts the integers using sorting algorithm and waits for child 
